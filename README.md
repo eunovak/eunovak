@@ -1,16 +1,71 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4b14d9&height=120&section=header"/>
 
-<!--
-**eunovak/eunovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mono&weight=500&size=35&duration=3000&pause=2000&color=4B14D9&center=true&vCenter=true&width=1000&lines=Hello+Devs%2C+I'm+NovakDev;I'm+a+Backend+Developer+from+Brazil.)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+&nbsp;
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">About Me</h1>
+<h3 align="center">Business Administration Student | Full-Stack Developer | App Developer | Linux User | AI Enthusiast</h3>
+<p align="center">
+  I have been a programmer since 2022, and I am currently graduating in Business Administration. I am passionate about creating innovative solutions, especially in the realm of Artificial Intelligence, and continuously learning new technologies. I specialize in app development and work with various technologies. I am also a dedicated Linux user and advocate for open-source tools. Below, you will find more about my skills and interests. Feel free to reach out if you want to collaborate!
+</p>
+
+&nbsp;
+&nbsp;
+
+<div align="center">
+  <h2>My Tech Stack</h2><br>
+  <p align="center" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,python,java,mysql" alt="Tech Stack logos">
+  </p>
+   <br>
+   <br>
+</div>
+
+&nbsp;
+&nbsp;
+
+<h2 align="center">
+  My Discord Profile
+</h2>
+
+<div align="center">  
+  <img src="https://api.victims.bio/discord/user/discord-arts/1287508802392031253/card" alt="discord" /> 
+</div>
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+<h2 align="center">My Statistics</h2>
+
+&nbsp;
+&nbsp;
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=eunovakv&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=121111&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true%22" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novakdev&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=121111&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="padding=0;width=100%;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunovak&theme=tokyo-night&custom_title=%20Contribution%20Graph&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+&nbsp;
+&nbsp;
+
+<div align="center">
+  <p>Visitors Counter</p>
+  <img align="center" src="https://profile-counter.glitch.me/{eunovak}/count.svg" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4b14d9&height=120&section=footer"/>
