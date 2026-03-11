@@ -31,7 +31,7 @@
 </h2>
 
 <div align="center">  
-  <img src="https://api.victims.bio/discord/user/discord-arts/1287508802392031253/card" alt="discord" /> 
+  <img src="https://bioid.id/api/discord/1287508802392031253" alt="discord" /> 
 </div>
 
 &nbsp;
